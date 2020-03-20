@@ -15,8 +15,9 @@ def solution(seoul):
             return answer
 
 
+
 # 다른사람 풀이
+
 def findKim(seoul):
     return "김서방은 {}에 있다".format(seoul.index('Kim'))
-
 # list.index() 메소드를 통해 배열에서 특정 요소의 인덱스 값을 찾을 수 있다.
