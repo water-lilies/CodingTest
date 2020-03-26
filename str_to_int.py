@@ -29,3 +29,10 @@ def strToInt(str):
             result += int(number) * (10 ** idx)
 
     return result
+
+
+def solution(s):
+    if s[0].isdigit():
+        return int(s)
+    else:
+        return (int(s[1:]) * (-1 if s[0] == "-" else 1))
