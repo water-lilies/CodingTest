@@ -19,18 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e9c725-28b5-4f07-847f-e89faa20daa3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2016.py" beforeDir="false" afterPath="$PROJECT_DIR$/2016년.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kth_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/K번째수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/average.py" beforeDir="false" afterPath="$PROJECT_DIR$/평균구하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic_str_hadling.py" beforeDir="false" afterPath="$PROJECT_DIR$/문자열다루기기본.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/divisor_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/나누어떨어지는숫자배열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/모의고사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/find_Kim.py" beforeDir="false" afterPath="$PROJECT_DIR$/서울에서김서방찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_the_middle_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/가운데글자가져오기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remove_min.py" beforeDir="false" afterPath="$PROJECT_DIR$/제일작은수제거하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum_between_two_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/두정수사이의합.py" afterDir="false" />
-    </list>
+    <list default="true" id="19e9c725-28b5-4f07-847f-e89faa20daa3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
