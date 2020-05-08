@@ -17,8 +17,8 @@ def solution(s):
     
 
 
-# 다른사람 풀이
 
+# 다른사람 풀이 1
 def strToInt(str):
     result = 0
                                # 주어진 스트링을 거꾸로
@@ -31,6 +31,7 @@ def strToInt(str):
     return result
 
 
+# 다른사람 풀이 2
 def solution(s):
     if s[0].isdigit():
         return int(s)

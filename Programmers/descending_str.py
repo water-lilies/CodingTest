@@ -17,7 +17,6 @@ def solution(s):
 
 
 # 다른사람 풀이
-
 def solution(s):
     ls = list(s)
     ls.sort(reverse = True)

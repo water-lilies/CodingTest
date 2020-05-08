@@ -8,7 +8,7 @@
 
 def solution(arr1, arr2):
     answer = []
-    row_list = [] # answer에 append해줄 row 임시저장
+    row_list = [] #answer에 append해줄 row 임시저장
     for i in range(len(arr1)): 
         for j in range(len(arr1[i])):
             row_list.append(arr1[i][j] + arr2[i][j])

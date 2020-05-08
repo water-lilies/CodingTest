@@ -10,9 +10,8 @@ def solution(n):
     num.sort(reverse=True)
     answer=""
     for k in num:
-        answer+=str(k)
+        answer += str(k)
     return int(answer)
-
 
 
 

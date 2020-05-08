@@ -14,4 +14,4 @@ def solution(num):
 
 # 다른사람 풀이
 def evenOrOdd(num):
-    return "Even" if num%2 == 0 else "Odd"
+    return "Even" if num % 2 == 0 else "Odd"

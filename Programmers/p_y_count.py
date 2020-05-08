@@ -17,11 +17,13 @@ def solution(s):
         return False
 
 
-# 다른사람 풀이
+
+# 다른사람 풀이 1
 def numPY(s):
     return s.lower().count('p') == s.lower().count('y')
-    
-    
+
+
+# 다른사람 풀이 2
 from collections import Counter
 def numPY(s):
     c = Counter(s.lower())

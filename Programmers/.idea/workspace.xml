@@ -19,7 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19e9c725-28b5-4f07-847f-e89faa20daa3" name="Default Changelist" comment="" />
+    <list default="true" id="19e9c725-28b5-4f07-847f-e89faa20daa3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GCD_LCM.py" beforeDir="false" afterPath="$PROJECT_DIR$/GCD_LCM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/descending_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/descending_int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/descending_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/descending_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/even_odd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix_addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix_addition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p_y_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/p_y_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/str_to_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/str_to_int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sum_of_divisor.py" beforeDir="false" afterPath="$PROJECT_DIR$/sum_of_divisor.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,5 +71,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
